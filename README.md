@@ -8,7 +8,7 @@ The project includes my independent solution for Part 1 (without the use of AI) 
 
 ## Repository Link
 
-[Add your public GitHub repository link here]
+https://github.com/elizabethvassylyev/FINE3300-2026-A1
 
 ## Project Files
 
