@@ -28,7 +28,7 @@ class ExchangeRates:
 
         return converted.quantize(self.CENT, rounding=ROUND_HALF_UP)
 
-csv_path = r"C:\Users\LizaV\Downloads\BankOfCanadaExchangeRate.2026.csv"
+csv_path = "BankOfCanadaExchangeRate.2026.csv"
 rates = ExchangeRates(csv_path)
 
 amount = input("Enter the amount: ")
