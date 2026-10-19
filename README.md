@@ -12,7 +12,7 @@ https://github.com/elizabethvassylyev/FINE3300-2026-A1
 
 ## Project Files
 
-- `Exchange Rates.py` - My solution for Part 1
+- `ExchangeRates.py` - My solution for Part 1
 - `ExchangeRatesAI.py` - The AI-generated solution for Part 2
 - `BankOfCanadaExchangeRate.2026.csv` - Exchange-rate data
 - `README.md` - Project description and results
