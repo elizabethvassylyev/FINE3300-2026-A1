@@ -4,7 +4,7 @@ class ExchangeRates: #creates ExchangeRates class
         file = open(filename) #opens the csv file for reading
         lines = file.readlines() #reads all lines in the file and stores them in a list
         file.close() #closes the file
-        #selects the USD/CAD exchange rate from the last column and row of the file 
+        #selects the USD/CAD exchange rate from the 27th column and row of the file 
         self.rate = float(lines[-1].split(",")[26]) #changes the rate from text to a decimal and saves it
 
     def convert(self, amount, base_cur, target_cur): #defines the convert method to convert between USD and CAD
